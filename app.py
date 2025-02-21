@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Growth Mindset Challenge", page_icon="★")
 st.title("Growth Mindset Challenge")
 
-st.header("🚀 Welcome to the Growth Mindset Challenge")
+st.header("🚀 Welcome to the Growth Mindset")
 st.markdown("🌟🌟🌟")
 st.write("Keep pushing your boundaries and always believe in your potential to grow and succeed! 🌱💪")
 
